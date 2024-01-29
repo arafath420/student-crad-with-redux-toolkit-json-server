@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "id": "6506",
+      "name": "Md Yeasin Arafath",
+      "roll": "001101",
+      "email": "easinarafath12435@gmail.com",
+      "photo": "https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/319981952_681248006840430_2290147124025767570_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHvu62PXqci-PS4tQXkufma4KDGCQj-3CrgoMYJCP7cKr5tXx-ZctC3XNXRr_LEnG2q3cVkpTLkRnMQsZFAM7gf&_nc_ohc=k9KXH3AMB28AX83lDjg&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDSwBAXWynOjDSDULeESujA_FU6RpinHcHD8bOpiyHx1w&oe=65272F69",
+      "location": "Dhaka"
+    },
+    {
+      "id": "b5fd",
+      "name": "Md Rana Chowdhury",
+      "roll": "001102",
+      "email": "mooktopakhi@gmail.com",
+      "photo": "https://scontent.fjsr1-2.fna.fbcdn.net/v/t39.30808-6/361552620_3513739455535873_6984071360620734960_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=MQXGRjDac2kAX_9S_Bl&_nc_zt=23&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfDBq5ZtgUA4_maaNu7v8jGBRu2elYyvjYvCMHKTwrdQ8A&oe=652A1930",
+      "location": "Barishal"
+    }
+  ]
+}
